@@ -1,0 +1,2 @@
+# GIT-Setup
+School
